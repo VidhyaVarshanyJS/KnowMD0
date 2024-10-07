@@ -41,5 +41,5 @@ After completing these steps, you'll be ready to start using the Langchain Medic
 ## Usage
 To use the Openchat llm model Chatbot, ensure that the required data sources are available in the specified 'data' directory. This data can be in the file format of pdf, txt, or xlsx. Run the `ingest.py` script first to process the data and create the vector database. Once the database is ready, open Git Bash within your folder, and input/execute the following: `chainlit run model.py -w` to start the chatbot and interact with your files.
 
-![CPUMedicalChatbot Interface](images/Architecture.png)
-# medicalChatbot_OpenchatLLM
+![CPUMedicalChatbot Interface](https://github.com/VidhyaVarshanyJS/KnowMD0/blob/master/others/Architecture.png)
+
